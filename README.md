@@ -1,4 +1,4 @@
 # hello-world/
 First Time Coding Project/
-New Coding Student/
+New Coder Student/
 
